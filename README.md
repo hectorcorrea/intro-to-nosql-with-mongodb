@@ -1,5 +1,11 @@
 Slides and code samples for my Introduction to NoSQL with MongoDB session.
 
+Slides
+======
+Intro to NoSQL with MongoDB.key: slides in Keynote
+
+Slides.pdf: slides in PDF format
+
 Code Samples
 ===========
 
@@ -18,7 +24,6 @@ Code Samples
 
 * aggregation1.js: Sample using the Aggregation Framework.
 
+* indexes.js: Shows how to create an index and see the excution plain when executing a query that uses the index.
+
 * JavaSample.java: A small Java program to query data from a MongoDB database. This example requires the MongoDB driver for Java which you can download from the MongoDB web site.
-
-* mongo.jar: MongoDB drive for Java (Mac OS/X)
-
